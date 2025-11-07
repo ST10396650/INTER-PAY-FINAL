@@ -12,6 +12,13 @@ A separate **Employee Portal** is planned for future development to handle verif
 
 
 ---
+## Group Memebers:
+Nia Diale - ST10396650
+Thando Nqobile Candies Phiri - ST10377344
+Letlotlo Motloung - ST10365209
+Keitumetse George Rankwane - ST10372590
+
+---
 
 ## Table of Contents
 
@@ -352,8 +359,8 @@ SOFTWARE.
 
 **Author**: Nia Diale
 **Institution**: Varsity College
-**Course**: BCA3 - INSY7314 Part 2
-**Repository**: [bca3-prog7314-part-2-submission-ST10356476](https://github.com/VCPTA/bca3-prog7314-part-2-submission-ST10356476)
+**Course**: BCA3 - INSY7314 Part 3
+**Repository**: [bca3-prog7314-part-2-submission-ST10356476]([https://github.com/VCPTA/bca3-prog7314-part-2-submission-ST10356476](https://github.com/VCPTA/bca3-insy7314-poe-submission-ST10396650.git))
 
 
 ## Acknowledgments
