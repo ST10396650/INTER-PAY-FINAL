@@ -13,10 +13,10 @@ A separate **Employee Portal** is planned for future development to handle verif
 
 ---
 ## Group Memebers:
-Nia Diale - ST10396650
-Thando Nqobile Candies Phiri - ST10377344
-Letlotlo Motloung - ST10365209
-Keitumetse George Rankwane - ST10372590
+- Nia Diale - ST10396650
+-Thando Nqobile Candies Phiri - ST10377344
+- Letlotlo Motloung - ST10365209
+- Keitumetse George Rankwane - ST10372590
 
 ---
 
